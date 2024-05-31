@@ -1,0 +1,15 @@
+D:\goals\goal projects 2\Singleton\bin\Debug\net6.0\Singleton.exe
+D:\goals\goal projects 2\Singleton\bin\Debug\net6.0\Singleton.deps.json
+D:\goals\goal projects 2\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+D:\goals\goal projects 2\Singleton\bin\Debug\net6.0\Singleton.dll
+D:\goals\goal projects 2\Singleton\bin\Debug\net6.0\Singleton.pdb
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\Singleton.dll
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\Singleton.pdb
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+D:\goals\goal projects 2\Singleton\obj\Debug\net6.0\ref\Singleton.dll
