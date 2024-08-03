@@ -2,15 +2,15 @@
 
 public class DeleteCommand : ICommand
 {
-  private readonly Button light;
+  private readonly Button button;
 
-  public DeleteCommand(Button light)
+  public DeleteCommand(Button button)
   {
-    this.light = light;
+    this.button = button;
   }
 
   public void Execute()
   {
-    light.Delete();
+    button.Delete();
   }
 }

@@ -26,7 +26,7 @@ public class Store : IStore
     public void AddNewProduct(string product)
     {
         latestProduct = product;
-        Notify();
+        Notify(); // add more criteria  for notifying,
     }
 
     public string GetLatestProduct()
